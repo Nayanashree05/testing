@@ -9,5 +9,5 @@ langchain-groq==0.0.1
 python-dotenv
 SpeechRecognition
 PyAudio==0.2.13
-pyaudio @ https://github.com/intxcc/pyaudio_portaudio/releases/download/v0.2.11/PyAudio-0.2.11-cp39-cp39-win_amd64.whl
+
 
