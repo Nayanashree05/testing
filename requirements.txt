@@ -8,4 +8,4 @@ groq==0.4.2
 langchain-groq==0.0.1
 python-dotenv
 SpeechRecognition
-PyAudio==0.2.11
+PyAudio==0.2.13
